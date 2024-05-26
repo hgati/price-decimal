@@ -10,13 +10,13 @@ class Config implements ConfigInterface
 {
 
     const XML_PATH_PRICE_PRECISION
-        = 'catalog_price_decimal/general/price_precision';
+        = 'hgati_catalog_price_decimal/general/price_precision';
 
     const XML_PATH_CAN_SHOW_PRICE_DECIMAL
-        = 'catalog_price_decimal/general/can_show_decimal';
+        = 'hgati_catalog_price_decimal/general/can_show_decimal';
 
     const XML_PATH_GENERAL_ENABLE
-        = 'catalog_price_decimal/general/enable';
+        = 'hgati_catalog_price_decimal/general/enable';
 
     /**
      * @var \Magento\Framework\App\Config\ScopeConfigInterface
