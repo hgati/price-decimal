@@ -31,5 +31,6 @@ composer require hgati/price-decimal:dev-master
 ### Configuration
 
 ```
-Stores -> Configuration -> Catalog
+# Website level (not store view level)
+Stores > Configuration > Catalog > Simple Price Decimal (Precision)
 ```
